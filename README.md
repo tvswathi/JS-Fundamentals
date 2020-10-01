@@ -3,4 +3,4 @@ This tutorial help to learn javascript your own. You can work out JS in Sublime 
 
 1. Addition of variables, Concatination of variables,ppending string type with variable  and displaying result in JS
 2. Increment and decrement operations in JS.
-3. Nan(not an integer): Checking the result in Nan in JS.
+3. Nan(not an number): Checking the result in Nan in JS.
