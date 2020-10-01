@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>Increment & Decrement Operator</title>
+	<script>
+
+	var x = 10;
+	var y = x++;
+
+	// post increment addition: 1. y=x; x=x++
+	document.write("***** post increment addition *****<br/>");
+	document.write("x:" +x+ "<br/>"); //x=11
+	document.write("y:" +y+ "<br/>"); // y=10
+	
+	// post increment substraction: 1. y=x; x=x--	
+	var z = x--;
+	document.write("***** post increment substraction ******<br/>");
+	document.write("x:" +x+ "<br/>"); //x=9
+	document.write("z:" +z+ "<br/>"); // z=10
+
+	// preincrement : evalute the increment first then evaluate expression
+	// pre-increment addition
+	var a = 11;
+	var b = ++a;
+	document.write("**** pre-increment addition *****<br/>");
+	document.write("a:" +a+"<br/>");
+	document.write("b:" +b+"<br/>");
+
+	// pre-increment substraction
+	var c = --a;
+	document.write("***** pre-increment substraction *****<br/>");
+	document.write("a:" +a+"<br/>");
+	document.write("c:" +c+"<br/>");
+
+
+
+	</script>
+</head>
+</html>
