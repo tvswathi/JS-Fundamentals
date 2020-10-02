@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>Grading Application</title>
+	<script>
+		var js_mark=parseInt(prompt("Enter the javascript marks"));
+		var java_mark=parseInt(prompt("Enter the java marks"));
+		var dotnet_mark=parseInt(prompt("Enter the dotnet marks"));
+
+		var total=js_mark+java_mark+dotnet_mark;
+		document.write("Total mark is:" + total + "<br/>");
+
+		var avg =total/3;
+		document.write("Average is:" + avg +"<br/>");
+
+		if(js_mark >=35 && java_mark>=35 && dotnet_mark>=35)
+		{
+			document.write("Result: Pass" +"<br/>");
+			if(avg>=35 && avg<60)
+				document.write("Grade:C"+ "<br/>");
+			else if(avg>=60 && avg<=69)
+				document.write("Grade:B"+ "<br/>");
+			else
+				document.write("Grade:A" + "<br/>");
+
+		}
+		else
+		{
+			document.write("Result: Fail" + "<br/>");
+		}
+		
+	
+	</script>
+</head>
+</html>
