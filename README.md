@@ -17,4 +17,4 @@ Condition: if, if else,switch conditions
 8. if condition: Using prompt popup user enter a number and then check the number is 10 or not display the result on browser.
 9. switch condition: Using prompt popup user enter a number between 1-3 and display the enetred number in the browser.
 10. evenorodd: using prompt user enter a number and then check whether it is odd or event and didplay result as pop up.
-11. Grading Application in JS: Using propmpt pop u enter the marks in javascript, java mark, dotnet mark of the student and display the total mark, avaerage mark, grade.
+11. Grading Application in JS: Using prompt popup user enter the marks in javascript, java mark, dotnet mark of the student and display the total mark, avaerage mark, grade.
