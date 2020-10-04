@@ -18,3 +18,12 @@ Condition: if, if else,switch conditions
 9. switch condition: Using prompt popup user enter a number between 1-3 and display the enetred number in the browser.
 10. evenorodd: using prompt user enter a number and then check whether it is odd or event and didplay result as pop up.
 11. Grading Application in JS: Using prompt popup user enter the marks in javascript, java mark, dotnet mark of the student and display the total mark, avaerage mark, grade.
+
+Loops: while, dowhile , for loop and break /continue statemint in JS
+
+11. while: Using rompt popup accept the limit and using while loop print the number upto limit
+12. do while loop: do while loop syntax and working
+13. for loop: Display numbers using for loop and propmt popuo used to enter the limit
+14. Break and continue statemnt in JS
+
+
